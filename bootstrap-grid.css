@@ -23,17 +23,12 @@ html {
   margin-right: auto;
   margin-left: auto;
 }
-
-
-
-
 @media (min-width: 576px) {
       .container {
       max-width: 540px;
     }
 
   }
-
   @media (min-width: 768px) {
     .container {
       max-width: 720px;
@@ -3910,7 +3905,6 @@ html {
 }
 
 body {
-   
     padding: 0;
     margin: 0;
     text-align: center;
@@ -3920,7 +3914,7 @@ body {
 }
 
 span{
-    color:cornsilk;
+    color: cornsilk;
     font-size: 1.2rem;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
     display: block;
@@ -3951,6 +3945,7 @@ span{
     padding: 2rem;
     text-decoration: none;
 }
+
 .MyFamily-img {
     background-image: url(MyFamily_optimized.jpg);
     background-position: bottom;

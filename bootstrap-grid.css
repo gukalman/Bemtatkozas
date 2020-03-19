@@ -3950,7 +3950,7 @@ span{
     background-image: url(MyFamily_optimized.jpg);
     background-position: bottom;
     background-size: cover;
-    max-width: 102%;
+    max-width: 100%;
     height: auto;
 }
 /*# sourceMappingURL=bootstrap-grid.css.map */
